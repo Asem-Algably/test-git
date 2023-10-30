@@ -1,0 +1,3 @@
+Open README.md in your text editor of choice. In this example
+ we will open the directory in Visual Studio Code by using the command code . inside your repository.
+ hello odin
